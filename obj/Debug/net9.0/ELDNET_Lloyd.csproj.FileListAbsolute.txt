@@ -407,7 +407,6 @@ C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\D
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\bundle\ELDNET_Lloyd.styles.css
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\projectbundle\ELDNET_Lloyd.bundle.scp.css
-C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\az2bv6r69s-b9sayid5wm.gz
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\oxjn4byi90-61n19gt1b8.gz
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\uyvhkeztjo-xtxxf3hu2r.gz
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\kbljk1qihc-bqjiyaj88i.gz
@@ -482,3 +481,5 @@ C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\D
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.pdb
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.genruntimeconfig.cache
 C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ref\ELDNET_Lloyd.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.sourcelink.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\az2bv6r69s-dxvrll4rbt.gz
