@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ELDNET_Lloyd
+build_property.RootNamespace = ELDNET_Lloyd
+build_property.ProjectDir = C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/AdminPanel/ActivityRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYW5lbFxBY3Rpdml0eVJlY29yZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/AdminPanel/GatePassRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYW5lbFxHYXRlUGFzc1JlY29yZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/AdminPanel/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYW5lbFxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/AdminPanel/LockerRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYW5lbFxMb2NrZXJSZWNvcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/AdminPanel/StudentRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYW5lbFxTdHVkZW50UmVjb3Jkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/Shared/_AdminShared.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblNoYXJlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/Shared/_StudentShared.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50U2hhcmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/StudentPanel/Activity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFBhbmVsXEFjdGl2aXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/StudentPanel/GatePass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFBhbmVsXEdhdGVQYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/StudentPanel/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFBhbmVsXEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/StudentPanel/Locker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFBhbmVsXExvY2tlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John Vill/OneDrive/Desktop/WebApp Final/ELDNET_Lloyd/ELDNET_Lloyd/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1g9k3msp0z

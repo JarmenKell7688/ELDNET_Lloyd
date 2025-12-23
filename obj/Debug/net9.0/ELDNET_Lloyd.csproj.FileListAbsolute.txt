@@ -1,0 +1,484 @@
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\appsettings.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.staticwebassets.runtime.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.staticwebassets.endpoints.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.exe
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.deps.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.runtimeconfig.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.pdb
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Humanizer.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\linux\lib\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\osx\lib\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.csproj.AssemblyReference.cache
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.AssemblyInfoInputs.cache
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.AssemblyInfo.cs
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.csproj.CoreCompileInputs.cache
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.RazorAssemblyInfo.cache
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.RazorAssemblyInfo.cs
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\bundle\ELDNET_Lloyd.styles.css
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\projectbundle\ELDNET_Lloyd.bundle.scp.css
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\az2bv6r69s-b9sayid5wm.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\oxjn4byi90-61n19gt1b8.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\uyvhkeztjo-xtxxf3hu2r.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\kbljk1qihc-bqjiyaj88i.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ivzc3bgdpw-c2jlpeoesf.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\319020mtit-erw9l3u2r3.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\hpplc3uv6m-aexeepp0ev.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\b0h5u2dk6o-d7shbmvgxk.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\j2r808r2or-ausgxo2sd3.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\uo48jjb49w-k8d9w2qqmf.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\sxc0hwtqwv-cosvhxvwiu.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\bkdjo9wwum-ub07r2b239.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\hoextnotg3-fvhpjtyr6v.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\yftkgc5rwz-b7pk76d08c.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\yyu37a0qyj-fsbi9cje9m.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\2w1qnwpy7m-rzd6atqjts.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\yllezc5jcz-ee0r1s7dh0.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\liq2h5kwbn-dxx9fxp4il.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\nhhhynh1c0-jd9uben2k1.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\sl3ldgeotn-khv3u5hwcm.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\7sek6z9tfd-r4e9w2rdcm.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ojjreznvwt-lcd1t2u6c8.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\omhmkafhyv-c2oey78nd0.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\i8b24c9t88-tdbxkamptv.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\stmdtw20su-j5mq2jizvt.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\xm2drqvvyd-06098lyss8.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\3hpqa5azs5-nvvlpmu67g.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\eir5tf0zdi-s35ty4nyc5.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\bzw7gyhqw3-pj5nd1wqec.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\h3805ekof3-46ein0sx1k.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\excjp24gzv-v0zj4ognzu.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ly8o6fvkfm-37tfw0ft22.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\blobco8ssj-hrwsygsryq.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\oj8a612wa1-pk9g2wxc8p.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\nn13xfo7fp-ft3s53vfgj.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\d3qsw79od6-6cfz1n2cew.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ro5tdo94qn-6pdc2jztkx.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\9xulqvob21-493y06b0oq.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\1bk7eqs01a-iovd86k7lj.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\wutxroshrr-vr1egmr9el.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ooe2d6kiuc-kbrnm935zg.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\o35dq2byuq-jj8uyg4cgr.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\vu8uhgz16f-y7v9cxd14o.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\j5mqs8rk55-notf2xhcfb.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\t3htofj5fi-h1s4sie4z3.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\4gg5lse8ds-63fj8s7r0e.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\wfu337dfq8-0j3bgjxly4.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\udctqo8m2x-47otxtyo56.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\8wjxs57ic5-4v8eqarkd7.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\a5ko5330l2-356vix0kms.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ajhqfv1l52-83jwlth58m.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\gk8um78ehl-mrlpezrjn3.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\em9wzxti05-lzl9nlhx6b.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\96055f8s8i-ag7o75518u.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\jg1pecqlz8-x0q3zqp4vz.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\wtzzbbwjy7-0i3buxo5is.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ri2iy3bn6f-o1o13a6vjx.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\88api8retl-ttgo8qnofa.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\lx2sxzj0cs-2z0ns9nrw6.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\p4n2phvk88-muycvpuwrr.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\73rj962q70-87fc7y1x7t.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\zlt9gbpi60-mlv21k5csn.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\orxje6ghk3-32tp6858ft.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\w1ien0z1e6-32tp6858ft.gz
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_L.B0C9ABBC.Up2Date
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\refint\ELDNET_Lloyd.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.pdb
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.genruntimeconfig.cache
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ref\ELDNET_Lloyd.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\raaga\C# Files\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\appsettings.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.staticwebassets.runtime.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.staticwebassets.endpoints.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.exe
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.deps.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.runtimeconfig.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ELDNET_Lloyd.pdb
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Humanizer.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\linux\lib\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\osx\lib\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.csproj.AssemblyReference.cache
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.AssemblyInfoInputs.cache
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.AssemblyInfo.cs
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.csproj.CoreCompileInputs.cache
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.RazorAssemblyInfo.cache
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.RazorAssemblyInfo.cs
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\bundle\ELDNET_Lloyd.styles.css
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\scopedcss\projectbundle\ELDNET_Lloyd.bundle.scp.css
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\az2bv6r69s-b9sayid5wm.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\oxjn4byi90-61n19gt1b8.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\uyvhkeztjo-xtxxf3hu2r.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\kbljk1qihc-bqjiyaj88i.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ivzc3bgdpw-c2jlpeoesf.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\319020mtit-erw9l3u2r3.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\hpplc3uv6m-aexeepp0ev.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\b0h5u2dk6o-d7shbmvgxk.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\j2r808r2or-ausgxo2sd3.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\uo48jjb49w-k8d9w2qqmf.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\sxc0hwtqwv-cosvhxvwiu.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\bkdjo9wwum-ub07r2b239.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\hoextnotg3-fvhpjtyr6v.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\yftkgc5rwz-b7pk76d08c.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\yyu37a0qyj-fsbi9cje9m.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\2w1qnwpy7m-rzd6atqjts.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\yllezc5jcz-ee0r1s7dh0.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\liq2h5kwbn-dxx9fxp4il.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\nhhhynh1c0-jd9uben2k1.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\sl3ldgeotn-khv3u5hwcm.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\7sek6z9tfd-r4e9w2rdcm.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ojjreznvwt-lcd1t2u6c8.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\omhmkafhyv-c2oey78nd0.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\i8b24c9t88-tdbxkamptv.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\stmdtw20su-j5mq2jizvt.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\xm2drqvvyd-06098lyss8.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\3hpqa5azs5-nvvlpmu67g.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\eir5tf0zdi-s35ty4nyc5.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\bzw7gyhqw3-pj5nd1wqec.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\h3805ekof3-46ein0sx1k.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\excjp24gzv-v0zj4ognzu.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ly8o6fvkfm-37tfw0ft22.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\blobco8ssj-hrwsygsryq.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\oj8a612wa1-pk9g2wxc8p.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\nn13xfo7fp-ft3s53vfgj.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\d3qsw79od6-6cfz1n2cew.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ro5tdo94qn-6pdc2jztkx.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\9xulqvob21-493y06b0oq.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\1bk7eqs01a-iovd86k7lj.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\wutxroshrr-vr1egmr9el.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ooe2d6kiuc-kbrnm935zg.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\o35dq2byuq-jj8uyg4cgr.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\vu8uhgz16f-y7v9cxd14o.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\j5mqs8rk55-notf2xhcfb.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\t3htofj5fi-h1s4sie4z3.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\4gg5lse8ds-63fj8s7r0e.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\wfu337dfq8-0j3bgjxly4.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\udctqo8m2x-47otxtyo56.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\8wjxs57ic5-4v8eqarkd7.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\a5ko5330l2-356vix0kms.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ajhqfv1l52-83jwlth58m.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\gk8um78ehl-mrlpezrjn3.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\em9wzxti05-lzl9nlhx6b.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\96055f8s8i-ag7o75518u.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\jg1pecqlz8-x0q3zqp4vz.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\wtzzbbwjy7-0i3buxo5is.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\ri2iy3bn6f-o1o13a6vjx.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\88api8retl-ttgo8qnofa.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\lx2sxzj0cs-2z0ns9nrw6.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\p4n2phvk88-muycvpuwrr.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\73rj962q70-87fc7y1x7t.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\zlt9gbpi60-mlv21k5csn.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\orxje6ghk3-32tp6858ft.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\compressed\w1ien0z1e6-32tp6858ft.gz
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_L.B0C9ABBC.Up2Date
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\refint\ELDNET_Lloyd.dll
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.pdb
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ELDNET_Lloyd.genruntimeconfig.cache
+C:\Users\John Vill\OneDrive\Desktop\WebApp Final\ELDNET_Lloyd\ELDNET_Lloyd\obj\Debug\net9.0\ref\ELDNET_Lloyd.dll

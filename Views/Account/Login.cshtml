@@ -1,0 +1,41 @@
+﻿@model ELDNET_Lloyd.Models.LoginViewModel;
+
+@*
+*@
+@{
+}
+@if (TempData["Message"] != null)
+{
+    <div class="alert @TempData["AlertStyle"] alert-dismissible fade show text-center" role="alert">
+        @TempData["Message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <!-- Login Form -->
+    <div id="loginForm" class="card shadow-sm" style="width: 100%; max-width: 500px; border-radius: 20px;">
+        <div class="card-body p-4">
+            <h3 class="card-title text-center mb-2 fw-bold">Login</h3>
+            <form asp-action="Login" asp-controller="Account" method="post">
+                @Html.AntiForgeryToken()
+
+                <div class="mb-2">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" style="border-radius: 10px;" placeholder="Email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="mb-2">
+                    <label asp-for="Password" class="form-label"></label>
+                    <input asp-for="Password" class="form-control" style="border-radius: 10px;" placeholder="Password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="d-grid gap-2 mt-4">
+                    <button type="submit" class="btn" style="border-radius: 10px; background-color:black; color:white;">Login</button>
+                    <a asp-action="Register" asp-controller="Account" class="btn btn-outline-secondary" style="border-radius: 10px;">Go to Register</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

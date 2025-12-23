@@ -1,0 +1,85 @@
+﻿@model ELDNET_Lloyd.Models.RegisterViewModel;
+
+@{
+}
+
+<div class="d-flex justify-content-center align-items-center min-vh-100 py-4">
+    <div class="card shadow-sm" style="width: 100%; max-width: 900px; border-radius: 20px;">
+        <div class="card-body p-4">
+            <h3 class="card-title text-center mb-4 fw-bold">Register</h3>
+            <form asp-action="Register" asp-controller="Account" method="post" enctype="multipart/form-data">
+                @Html.AntiForgeryToken()
+
+                <div class="row">
+                    <!-- Left Column -->
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label">Email</label>
+                            <input asp-for="Email" class="form-control" style="border-radius: 10px;" placeholder="Email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="FirstName" class="form-label">First Name</label>
+                            <input asp-for="FirstName" class="form-control" style="border-radius: 10px;" placeholder="First Name" />
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="LastName" class="form-label">Last Name</label>
+                            <input asp-for="LastName" class="form-control" style="border-radius: 10px;" placeholder="Last Name" />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Course" class="form-label">Course</label>
+                            <select asp-for="Course" class="form-select" style="border-radius: 10px;">
+                                <option value="" selected disabled>Select your course</option>
+                                <option value="Computer Science">Computer Science</option>
+                                <option value="Information Technology">Information Technology</option>
+                                <option value="Business Administration">Business Administration</option>
+                                <option value="Engineering">Engineering</option>
+                                <option value="Nursing">Nursing</option>
+                                <option value="Education">Education</option>
+                                <option value="Arts">Arts</option>
+                                <option value="Law">Law</option>
+                            </select>
+                            <span asp-validation-for="Course" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Password" class="form-label">Password</label>
+                            <input asp-for="Password" class="form-control" style="border-radius: 10px;" placeholder="Password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ConfirmPassword" class="form-label">Confirm Password</label>
+                            <input asp-for="ConfirmPassword" class="form-control" style="border-radius: 10px;" placeholder="Confirm Password" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="StudentImage" class="form-label">Student Image</label>
+                            <input asp-for="StudentImage" type="file" class="form-control" style="border-radius: 10px;" />
+                            <span asp-validation-for="StudentImage" class="text-danger"></span>
+                            <small class="text-muted">Upload your profile picture</small>
+                        </div>
+
+                        <!-- Spacer to align with left column -->
+                        <div style="height: 58px;"></div>
+                    </div>
+                </div>
+
+                <!-- Buttons at the bottom -->
+                <div class="d-grid gap-2 mt-3">
+                    <button type="submit" class="btn btn-primary" style="border-radius: 10px; background-color:black; color:white;">Register</button>
+                    <a asp-action="Login" asp-controller="Account" class="btn btn-outline-secondary" style="border-radius: 10px;">Go Back</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

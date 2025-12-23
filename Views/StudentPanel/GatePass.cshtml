@@ -1,0 +1,122 @@
+﻿@model ELDNET_Lloyd.Models.GatePass;
+
+@*
+*@
+@{
+    Layout = "_StudentShared";
+}
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <!-- Form Card -->
+            <div class="bg-light border border-dark p-4" style="border-radius: 15px;">
+                <!-- Header inside the card -->
+                <div class="bg-dark text-white p-3 mb-4 text-center" style="border-radius: 5px;">
+                    <h1 class="h4 mb-0">Gate Pass Form</h1>
+                </div>
+
+                <form asp-action="Submit" asp-controller="GatePass" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    <!-- Personal Information Section -->
+                    <div class="mb-4">
+                        <h2 class="h5 fw-bold pb-2 mb-3 border-bottom border-dark">Personal Information</h2>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="SchoolYear" class="form-label fw-medium">School Year</label>
+                                <input asp-for="SchoolYear" class="form-control border border-dark" style="border-radius: 5px;" placeholder="e.g., 2024-2025" />
+                                <span asp-validation-for="SchoolYear" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="Date" class="form-label fw-medium"></label>
+                                <input asp-for="Date" type="date" class="form-control border border-dark" style="border-radius: 5px;" />
+                                <span asp-validation-for="Date" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label fw-medium"></label>
+                            <input asp-for="Name" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter full name" />
+                            <span asp-validation-for="Name" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label fw-medium"></label>
+                            <input asp-for="Address" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter complete address" />
+                            <span asp-validation-for="Address" class="text-danger small"></span>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="Type" class="form-label fw-medium"></label>
+                                <input asp-for="Type" class="form-control border border-dark" style="border-radius: 5px;" placeholder="e.g., Student, Faculty, Staff" />
+                                <span asp-validation-for="Type" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="CourseYear" class="form-label fw-medium">Course Year</label>
+                                <input asp-for="CourseYear" class="form-control border border-dark" style="border-radius: 5px;" placeholder="e.g., 1st Year, 2nd Year" />
+                                <span asp-validation-for="CourseYear" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Department" class="form-label fw-medium"></label>
+                            <input asp-for="Department" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter department" />
+                            <span asp-validation-for="Department" class="text-danger small"></span>
+                        </div>
+                    </div>
+
+                    <!-- Vehicle Information Section -->
+                    <div class="mb-4">
+                        <h2 class="h5 fw-bold pb-2 mb-3 border-bottom border-dark">Vehicle Information</h2>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="VehiclePlateNo" class="form-label fw-medium">Vehicle Plate No.</label>
+                                <input asp-for="VehiclePlateNo" class="form-control border border-dark" style="border-radius: 5px;" placeholder="e.g., ABC-1234" />
+                                <span asp-validation-for="VehiclePlateNo" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="RegistrationExpiry" class="form-label fw-medium">Registration Expiry</label>
+                                <input asp-for="RegistrationExpiry" type="date" class="form-control border border-dark" style="border-radius: 5px;" />
+                                <span asp-validation-for="RegistrationExpiry" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="VehicleType" class="form-label fw-medium">Vehicle Type</label>
+                                <input asp-for="VehicleType" class="form-control border border-dark" style="border-radius: 5px;" placeholder="e.g., Car, Motorcycle" />
+                                <span asp-validation-for="VehicleType" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="Maker" class="form-label fw-medium"></label>
+                                <input asp-for="Maker" class="form-control border border-dark" style="border-radius: 5px;" placeholder="e.g., Toyota, Honda" />
+                                <span asp-validation-for="Maker" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Color" class="form-label fw-medium"></label>
+                            <input asp-for="Color" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter vehicle color" />
+                            <span asp-validation-for="Color" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="DocumentUploadFiles" class="form-label fw-medium">Study Load and Registration</label>
+                            <input asp-for="DocumentUploadFiles" type="file" class="form-control border border-dark" style="border-radius: 5px;" multiple/>
+                            <span asp-validation-for="DocumentUploadFiles" class="text-danger small"></span>
+                        </div>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <button type="submit" class="btn btn-dark w-100 py-3 fw-medium" style="border-radius: 5px;">
+                        Submit Registration
+                    </button>
+                </form>
+
+            </div>
+
+        </div>
+    </div>
+</div>

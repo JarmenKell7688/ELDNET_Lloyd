@@ -1,0 +1,108 @@
+﻿@model ELDNET_Lloyd.Models.Activity;
+
+@*
+*@
+@{
+    Layout = "_StudentShared";
+}
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <!-- Form Card -->
+            <div class="bg-light border border-dark p-4" style="border-radius: 15px;">
+                <!-- Header inside the card -->
+                <div class="bg-dark text-white p-3 mb-4 text-center" style="border-radius: 5px;">
+                    <h1 class="h4 mb-0">Activity Area Form</h1>
+                </div>
+
+                <form asp-action="Submit" asp-controller="Activity" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    <!-- Activity Information Section -->
+                    <div class="mb-4">
+                        <h2 class="h5 fw-bold pb-2 mb-3 border-bottom border-dark">Activity Information</h2>
+
+                        <div class="mb-3">
+                            <label asp-for="OrganizationName" class="form-label fw-medium">Organization Name</label>
+                            <input asp-for="OrganizationName" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter organization name" />
+                            <span asp-validation-for="OrganizationName" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ActivityTitle" class="form-label fw-medium">Activity Title</label>
+                            <input asp-for="ActivityTitle" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter activity title" />
+                            <span asp-validation-for="ActivityTitle" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Venue" class="form-label fw-medium">Venue</label>
+                            <input asp-for="Venue" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter venue" />
+                            <span asp-validation-for="Venue" class="text-danger small"></span>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="DateNeeded" class="form-label fw-medium">Date Needed</label>
+                                <input asp-for="DateNeeded" type="date" class="form-control border border-dark" style="border-radius: 5px;" />
+                                <span asp-validation-for="DateNeeded" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-3">
+                                <label asp-for="TimeFrom" class="form-label fw-medium">Time From</label>
+                                <input asp-for="TimeFrom" type="time" class="form-control border border-dark" style="border-radius: 5px;" />
+                                <span asp-validation-for="TimeFrom" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-3">
+                                <label asp-for="TimeTo" class="form-label fw-medium">Time To</label>
+                                <input asp-for="TimeTo" type="time" class="form-control border border-dark" style="border-radius: 5px;" />
+                                <span asp-validation-for="TimeTo" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Participants" class="form-label fw-medium">Participants</label>
+                            <input asp-for="Participants" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter participants" />
+                            <span asp-validation-for="Participants" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Speaker" class="form-label fw-medium">Speaker</label>
+                            <input asp-for="Speaker" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter speaker name" />
+                            <span asp-validation-for="Speaker" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Purpose" class="form-label fw-medium">Purpose</label>
+                            <textarea asp-for="Purpose" class="form-control border border-dark" style="border-radius: 5px;" rows="3" placeholder="Enter purpose of activity"></textarea>
+                            <span asp-validation-for="Purpose" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="EquipmentNeeded" class="form-label fw-medium">Equipment Needed</label>
+                            <textarea asp-for="EquipmentNeeded" class="form-control border border-dark" style="border-radius: 5px;" rows="3" placeholder="List equipment needed"></textarea>
+                            <span asp-validation-for="EquipmentNeeded" class="text-danger small"></span>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="NatureOfActivity" class="form-label fw-medium">Nature of Activity</label>
+                                <input asp-for="NatureOfActivity" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter nature of activity" />
+                                <span asp-validation-for="NatureOfActivity" class="text-danger small"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="SourceOfFunds" class="form-label fw-medium">Source of Funds</label>
+                                <input asp-for="SourceOfFunds" class="form-control border border-dark" style="border-radius: 5px;" placeholder="Enter source of funds" />
+                                <span asp-validation-for="SourceOfFunds" class="text-danger small"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-dark w-100 py-3 fw-medium" style="border-radius: 5px;">
+                        Submit Activity Request
+                    </button>
+                </form>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
