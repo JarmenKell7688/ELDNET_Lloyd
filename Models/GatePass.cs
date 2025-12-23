@@ -8,6 +8,9 @@ namespace ELDNET_Lloyd.Models
         [Key]
         public int Id { get; set; }
 
+        [StringLength(20)]
+        public string Status { get; set; } = "Pending";
+
         [Required(ErrorMessage = "School year is required.")]
         [StringLength(10)]
         public string SchoolYear { get; set; }

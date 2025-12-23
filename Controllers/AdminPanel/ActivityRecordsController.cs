@@ -19,10 +19,9 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
             var activity = await _context.Activities.FindAsync(id);
             if (activity != null)
             {
-                // Add your approval logic here
-                // For example, you could add a Status field to the model
-                // activity.Status = "Approved";
-                // await _context.SaveChangesAsync();
+                activity.Status = "Approved";
+                _context.Activities.Update(activity);
+                await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-success";
                 TempData["Message"] = "Activity request approved successfully!";
@@ -43,10 +42,9 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
             var activity = await _context.Activities.FindAsync(id);
             if (activity != null)
             {
-                // Add your denial logic here
-                // For example, you could add a Status field to the model
-                // activity.Status = "Denied";
-                // await _context.SaveChangesAsync();
+                activity.Status = "Denied";
+                _context.Activities.Update(activity);
+                await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-warning";
                 TempData["Message"] = "Activity request denied.";

@@ -19,10 +19,9 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
             var locker = await _context.Lockers.FindAsync(id);
             if (locker != null)
             {
-                // Add your approval logic here
-                // For example, you could add a Status field to the model
-                // locker.Status = "Approved";
-                // await _context.SaveChangesAsync();
+                locker.Status = "Approved";
+                _context.Lockers.Update(locker);
+                await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-success";
                 TempData["Message"] = "Locker request approved successfully!";
@@ -43,10 +42,9 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
             var locker = await _context.Lockers.FindAsync(id);
             if (locker != null)
             {
-                // Add your denial logic here
-                // For example, you could add a Status field to the model
-                // locker.Status = "Denied";
-                // await _context.SaveChangesAsync();
+                locker.Status = "Denied";
+                _context.Lockers.Update(locker);
+                await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-warning";
                 TempData["Message"] = "Locker request denied.";

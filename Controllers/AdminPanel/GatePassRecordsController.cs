@@ -20,10 +20,9 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
             var gatePass = await _context.GatePasses.FindAsync(id);
             if (gatePass != null)
             {
-                // Add your approval logic here
-                // For example, you could add a Status field to the model
-                // gatePass.Status = "Approved";
-                // await _context.SaveChangesAsync();
+                gatePass.Status = "Approved";
+                _context.GatePasses.Update(gatePass);
+                await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-success";
                 TempData["Message"] = "Gate Pass request approved successfully!";
@@ -44,10 +43,9 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
             var gatePass = await _context.GatePasses.FindAsync(id);
             if (gatePass != null)
             {
-                // Add your denial logic here
-                // For example, you could add a Status field to the model
-                // gatePass.Status = "Denied";
-                // await _context.SaveChangesAsync();
+                gatePass.Status = "Denied";
+                _context.GatePasses.Update(gatePass);
+                await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-warning";
                 TempData["Message"] = "Gate Pass request denied.";

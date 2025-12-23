@@ -8,6 +8,9 @@ namespace ELDNET_Lloyd.Models
         [Key]
         public int Id { get; set; }
 
+        [StringLength(20)]
+        public string Status { get; set; } = "Pending";
+
         [Required(ErrorMessage = "Organization name is required.")]
         [StringLength(60)]
         public string OrganizationName { get; set; }

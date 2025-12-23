@@ -46,6 +46,25 @@
                                         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
                                     <div class="modal-body">
+                                        <!-- Status Badge -->
+                                        <div class="text-center mb-4">
+                                            @{
+                                                var status = string.IsNullOrEmpty(item.Status) ? "Pending" : item.Status;
+                                            }
+                                            @if (status == "Approved")
+                                            {
+                                                <span class="badge bg-success" style="font-size: 1.1rem; padding: 10px 20px;">✓ Approved</span>
+                                            }
+                                            else if (status == "Denied")
+                                            {
+                                                <span class="badge bg-danger" style="font-size: 1.1rem; padding: 10px 20px;">✗ Denied</span>
+                                            }
+                                            else
+                                            {
+                                                <span class="badge bg-warning text-dark" style="font-size: 1.1rem; padding: 10px 20px;">⏳ Pending</span>
+                                            }
+                                        </div>
+
                                         <h6 class="fw-bold mb-3">Locker Information</h6>
                                         <div class="row">
                                             <div class="col-md-6">
@@ -80,16 +99,22 @@
                                         }
                                     </div>
                                     <div class="modal-footer">
-                                        <form asp-action="Approve" asp-controller="LockerRecords" asp-route-id="@item.Id" method="post" style="display:inline;">
-                                            <button type="submit" class="btn btn-success" onclick="return confirm('Approve this request?');">
-                                                Approve
-                                            </button>
-                                        </form>
-                                        <form asp-action="Deny" asp-controller="LockerRecords" asp-route-id="@item.Id" method="post" style="display:inline;">
-                                            <button type="submit" class="btn btn-warning" onclick="return confirm('Deny this request?');">
-                                                Deny
-                                            </button>
-                                        </form>
+                                        @{
+                                            var currentStatus = string.IsNullOrEmpty(item.Status) ? "Pending" : item.Status;
+                                        }
+                                        @if (currentStatus == "Pending")
+                                        {
+                                            <form asp-action="Approve" asp-controller="LockerRecords" asp-route-id="@item.Id" method="post" style="display:inline;">
+                                                <button type="submit" class="btn btn-success" onclick="return confirm('Approve this request?');">
+                                                    Approve
+                                                </button>
+                                            </form>
+                                            <form asp-action="Deny" asp-controller="LockerRecords" asp-route-id="@item.Id" method="post" style="display:inline;">
+                                                <button type="submit" class="btn btn-warning" onclick="return confirm('Deny this request?');">
+                                                    Deny
+                                                </button>
+                                            </form>
+                                        }
                                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                                     </div>
                                 </div>

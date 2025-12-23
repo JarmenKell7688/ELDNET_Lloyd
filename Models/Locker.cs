@@ -8,6 +8,9 @@ namespace ELDNET_Lloyd.Models
         [Key]
         public int Id { get; set; }
 
+        [StringLength(20)]
+        public string Status { get; set; } = "Pending";
+
         [Required(ErrorMessage = "Full name is required.")]
         [StringLength(100)]
         public string Name { get; set; }
