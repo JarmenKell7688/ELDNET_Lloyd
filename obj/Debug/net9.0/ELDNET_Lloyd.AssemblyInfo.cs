@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ELDNET_Lloyd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43245d3f549719c8509a1ced2a8ed44226cab642")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d98992ae879b8b2e9ba163b48c7dff732d80704")]
 [assembly: System.Reflection.AssemblyProductAttribute("ELDNET_Lloyd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ELDNET_Lloyd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
