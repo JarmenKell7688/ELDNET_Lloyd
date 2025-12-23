@@ -9,22 +9,66 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
         private readonly ApplicationDbContext _context;
 
         public GatePassRecordsController(ApplicationDbContext context)
-        { 
+        {
             _context = context;
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Approve(int id)
+        {
+            var gatePass = await _context.GatePasses.FindAsync(id);
+            if (gatePass != null)
+            {
+                // Add your approval logic here
+                // For example, you could add a Status field to the model
+                // gatePass.Status = "Approved";
+                // await _context.SaveChangesAsync();
+
+                TempData["AlertStyle"] = "alert-success";
+                TempData["Message"] = "Gate Pass request approved successfully!";
+            }
+            else
+            {
+                TempData["AlertStyle"] = "alert-danger";
+                TempData["Message"] = "Record not found.";
+            }
+
+            return RedirectToAction("GatePassRecords", "AdminPanel");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Deny(int id)
+        {
+            var gatePass = await _context.GatePasses.FindAsync(id);
+            if (gatePass != null)
+            {
+                // Add your denial logic here
+                // For example, you could add a Status field to the model
+                // gatePass.Status = "Denied";
+                // await _context.SaveChangesAsync();
+
+                TempData["AlertStyle"] = "alert-warning";
+                TempData["Message"] = "Gate Pass request denied.";
+            }
+            else
+            {
+                TempData["AlertStyle"] = "alert-danger";
+                TempData["Message"] = "Record not found.";
+            }
+
+            return RedirectToAction("GatePassRecords", "AdminPanel");
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
-            // Find the record by Id
             var gatePass = await _context.GatePasses.FindAsync(id);
             if (gatePass != null)
             {
-                // Remove it from the DbSet
                 _context.GatePasses.Remove(gatePass);
-
-                // Save changes to the database
                 await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-success";
@@ -38,6 +82,5 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
 
             return RedirectToAction("GatePassRecords", "AdminPanel");
         }
-
     }
 }

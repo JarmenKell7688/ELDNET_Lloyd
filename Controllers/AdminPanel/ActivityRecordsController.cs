@@ -14,16 +14,60 @@ namespace ELDNET_Lloyd.Controllers.AdminPanel
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Approve(int id)
         {
-            // Find the record by Id
             var activity = await _context.Activities.FindAsync(id);
             if (activity != null)
             {
-                // Remove it from the DbSet
-                _context.Activities.Remove(activity);
+                // Add your approval logic here
+                // For example, you could add a Status field to the model
+                // activity.Status = "Approved";
+                // await _context.SaveChangesAsync();
 
-                // Save changes to the database
+                TempData["AlertStyle"] = "alert-success";
+                TempData["Message"] = "Activity request approved successfully!";
+            }
+            else
+            {
+                TempData["AlertStyle"] = "alert-danger";
+                TempData["Message"] = "Record not found.";
+            }
+
+            return RedirectToAction("ActivityRecords", "AdminPanel");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Deny(int id)
+        {
+            var activity = await _context.Activities.FindAsync(id);
+            if (activity != null)
+            {
+                // Add your denial logic here
+                // For example, you could add a Status field to the model
+                // activity.Status = "Denied";
+                // await _context.SaveChangesAsync();
+
+                TempData["AlertStyle"] = "alert-warning";
+                TempData["Message"] = "Activity request denied.";
+            }
+            else
+            {
+                TempData["AlertStyle"] = "alert-danger";
+                TempData["Message"] = "Record not found.";
+            }
+
+            return RedirectToAction("ActivityRecords", "AdminPanel");
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var activity = await _context.Activities.FindAsync(id);
+            if (activity != null)
+            {
+                _context.Activities.Remove(activity);
                 await _context.SaveChangesAsync();
 
                 TempData["AlertStyle"] = "alert-success";
